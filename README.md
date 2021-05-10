@@ -1,5 +1,9 @@
 # vim-razer
 
+## About this fork
+This fork was done to fix a bug related to macros and has been pulled by the original dev, therefore I'm archiving it. The updated repo can be found [here](https://github.com/DanManN/vim-razer). See [issue #6](https://github.com/DanManN/vim-razer/issues/6) and [pull request #8](https://github.com/DanManN/vim-razer/pull/8) for reference.
+
+
 ## Pre-installation
 
 Make sure vim was compiled with python3
